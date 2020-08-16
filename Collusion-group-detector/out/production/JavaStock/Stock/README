@@ -1,0 +1,9 @@
+DButil  JDBC工具类，登入数据库要用
+jdbc.properties 数据库登入表，不能改
+Functions   功能区，所有的功能类都在这里面
+datasets    存储手打的数据
+examp   试验区
+
+StockMain   主入口1,初版数据分析
+StockMain   无注释入口，方便改值
+
